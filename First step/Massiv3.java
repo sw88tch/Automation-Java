@@ -1,4 +1,3 @@
-import java.util.Random;
 public class Massiv3 {
     public static void main(String[] args){
         String[] appliances = { "Washer", "Dryer", "Frozen", "Microwave", "TV", "Mixer" };
