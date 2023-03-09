@@ -1,4 +1,4 @@
-public class Main {
+public class Incapsulation {
     public static void main(String[] args) {
         MelonStorage melonStorage = new MelonStorage(300);
         System.out.println(melonStorage.getMelonAmount());
